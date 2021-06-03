@@ -1,0 +1,5 @@
+venv\Scripts\activate
+env | grep VIRTUAL_ENV
+
+
+46498
